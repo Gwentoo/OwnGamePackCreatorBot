@@ -1,0 +1,9 @@
+config/config.yaml
+config/*.yaml
+internal/app/googleDrive/service-account.json
+.idea/
+*.exe
+*.log
+vendor/
+go.sum
+
